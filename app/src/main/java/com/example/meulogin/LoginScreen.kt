@@ -28,8 +28,6 @@ fun LoginScreen(){
         mutableStateOf("")
     }
 
-
-
     Column (
         modifier = Modifier.fillMaxSize(),
         verticalArrangement = Arrangement.Center,
