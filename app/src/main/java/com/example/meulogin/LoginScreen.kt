@@ -75,14 +75,5 @@ fun LoginScreen(){
         })
 
         Spacer(modifier = Modifier.height(32.dp))
-
-
-
-
-
-
     } // fim da coluna
-
-
-
 }// fim da função
